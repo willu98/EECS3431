@@ -1,0 +1,16 @@
+
+LEFT		-1
+RIGHT		1
+BOTTOM	-1
+TOP		1
+NEAR 		1
+
+AMBIENT	0.75	0.75	0.75
+BACK 		1 	1 	1
+
+RES		600 	600
+
+
+
+
+OUTPUT          testAmbient.ppm
